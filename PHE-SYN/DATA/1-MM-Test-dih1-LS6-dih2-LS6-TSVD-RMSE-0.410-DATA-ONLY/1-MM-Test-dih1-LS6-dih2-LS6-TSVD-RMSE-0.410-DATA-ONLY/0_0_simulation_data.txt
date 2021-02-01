@@ -1,4 +1,0 @@
-PHE.scan1.neg.150deg-start.log.20a-30a-40b-50-60-deg-adjusted.ffTK.ffTK.ffTK.ffTK
-PHE.scan1.pos.150deg-start.log.ffTK.ffTK.ffTK.ffTK
-D(11,12,35,36)
-38
