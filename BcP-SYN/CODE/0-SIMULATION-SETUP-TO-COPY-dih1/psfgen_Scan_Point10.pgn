@@ -1,0 +1,8 @@
+package require psfgen
+topology ./parameters/bcp-ade-res-master-file.str
+topology ./parameters/top_all36_na.rtf
+segment U {pdb Scan_Point10.pdb}
+coordpdb Scan_Point10.pdb U
+guesscoord
+writepdb Scan_Point10_sim_new.pdb
+writepsf Scan_Point10_sim_new.psf
