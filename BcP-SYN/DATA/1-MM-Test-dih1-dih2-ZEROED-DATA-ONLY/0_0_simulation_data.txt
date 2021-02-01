@@ -1,0 +1,4 @@
+BCP.scan1.neg.150deg-start.log.10-40-adjusted.ffTK.ffTK.ffTK.ffTK.ffTK
+BCP.scan1.pos.150deg-start.1-2-combined.log.m120-m160_m10-m30-adjusted.ffTK.ffTK.ffTK.ffTK.ffTK
+D(11,12,35,36)
+38
