@@ -1,8 +1,0 @@
-package require psfgen
-topology ./parameters/phe-ade-res-master-file.str
-topology ./parameters/top_all36_na.rtf
-segment U {pdb Scan_Point4.pdb}
-coordpdb Scan_Point4.pdb U
-guesscoord
-writepdb Scan_Point4_sim_new.pdb
-writepsf Scan_Point4_sim_new.psf
